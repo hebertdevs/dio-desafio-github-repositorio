@@ -1,2 +1,2 @@
 # Desafio de Projeto sobre Git/Github da Dio
-repositorio criado para Desafio de Projeto.
+Repositorio criado para o Bootcamp MRV da Dio
